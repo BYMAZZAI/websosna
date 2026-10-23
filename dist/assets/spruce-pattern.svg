@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="360" viewBox="0 0 460 360" fill="none">
+  <defs><g id="tree" stroke="#214A3B" stroke-width="1.2" stroke-linejoin="round">
+    <path d="M0-40 12-20H7L20 0H12L28 23H-28L-12 0H-20L-7-20H-12Z"/>
+    <path d="M0 23V34M0-27V15"/>
+  </g></defs>
+  <g opacity=".09">
+    <use href="#tree" transform="translate(58 75) rotate(-8)"/>
+    <use href="#tree" transform="translate(302 65) scale(.8) rotate(9)"/>
+    <use href="#tree" transform="translate(179 220) scale(1.15) rotate(5)"/>
+    <use href="#tree" transform="translate(411 269) scale(.9) rotate(-9)"/>
+  </g>
+</svg>

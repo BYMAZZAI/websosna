@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="76" viewBox="0 0 520 76" fill="none">
+  <!-- Decorative flat-vector spruce trees. Seamless horizontal repeat. -->
+  <defs>
+    <g id="spruce">
+      <path d="M-1.5 49h3v13h-3z" fill="#9A875E"/>
+      <path d="M0 0 12 21H7L19 39H12L25 57H-25L-12 39H-19L-7 21H-12Z" fill="currentColor"/>
+      <path d="M0 8 7 21H3L13 39H7L18 53H0Z" fill="#F7F5EF" opacity=".13"/>
+    </g>
+  </defs>
+  <path d="M0 74.5H520" stroke="#426E56" stroke-opacity=".18"/>
+  <g color="#8A9F87">
+    <use href="#spruce" transform="translate(27 29) scale(.66)"/>
+    <use href="#spruce" transform="translate(148 23) scale(.77)"/>
+    <use href="#spruce" transform="translate(285 30) scale(.65)"/>
+    <use href="#spruce" transform="translate(414 24) scale(.75)"/>
+  </g>
+  <g color="#214A3B">
+    <use href="#spruce" transform="translate(83 8) scale(1.05)"/>
+    <use href="#spruce" transform="translate(216 14) scale(.96)"/>
+    <use href="#spruce" transform="translate(348 5) scale(1.1)"/>
+    <use href="#spruce" transform="translate(481 12) scale(1)"/>
+  </g>
+</svg>
